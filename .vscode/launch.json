@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/priyanshuprince/Desktop/dspd2/travel_avl_only",
+      "program": "/Users/priyanshuprince/Desktop/dspd2/travel_avl_only/build/Debug/outDebug"
+    }
+  ]
+}
